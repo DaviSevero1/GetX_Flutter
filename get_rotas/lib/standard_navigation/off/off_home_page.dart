@@ -1,4 +1,8 @@
 import 'package:flutter/material.dart';
+import 'package:get/get.dart';
+import 'package:get/get_core/src/get_main.dart';
+
+import '../back/back_page1.dart';
 
 class OffHomePage extends StatelessWidget {
 
